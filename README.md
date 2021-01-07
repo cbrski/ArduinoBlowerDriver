@@ -1,6 +1,6 @@
 #### Arduino: Sterownik dmuchawy oraz 3 klap
   
-Program tworzony i usprawniany w latach 2019 - 2020.
+Projekt tworzony i usprawniany w latach 2019 - 2020.
   
 Celem było zaprojektowanie i wykonanie sterownika dmuchawy oraz 3 klap z wysoką kulturą pracy.  
 Zmiana RPM dmuchawy oraz położenia klap ma zachodzić w sposób jak najmniej zwracający na siebie uwagę, płynnie.  
